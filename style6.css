@@ -1,0 +1,398 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    height: 120px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.434);
+
+}
+.mo{
+    position: relative;
+    right: 120px;
+    top: 40px;
+}
+.mo input{
+    border: 0px;
+    background-color: white;
+    font-size: 15px;
+    width: 50px;  
+}
+.mo input:hover{
+    transform: translate(-15px ,0px );
+    transition: all 0.8s ease;
+}
+.mo i{
+    position:relative;
+    right: 20px;
+    color: dimgray;
+}
+.bo{
+    
+    position: relative;
+    top: 40px;
+}
+.bo button{ 
+    border: 3px solid  rgb(81, 81, 81);
+    color: rgb(81, 81, 81);
+    background-color: white;
+    font-size: 25px;
+    width: 160px;
+    height: 35px;
+}
+.no{
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+.no i{
+    font-size: 18px;
+    color: dimgray;
+    padding: 0px 5px;
+}
+.no i:hover{
+    color: rgb(51, 51, 51);
+    transition: all 0.8s ease;
+}
+.section1{
+    height:100px;
+}
+.vr{
+    position: relative;
+    top: 18px;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    
+}
+.hh{
+    color: blueviolet;
+}
+.vr a{
+    color: rgba(74, 74, 74, 0.886);
+    text-decoration: none;
+    padding: 0px 0px 0px 30px;
+}
+.vr a:hover{
+    color: blueviolet;
+}
+.sectionn1{
+    display: flex;
+    background-color: rgba(154, 154, 154, 0.142);
+    height: 60px;
+      
+}
+.sectionn1 div {
+    
+    position: relative;
+    left: 50px;
+    top: 10px;
+    margin: 10px;
+}
+.sectionn1 div a {
+   color: rgba(0, 0, 0, 0.826); 
+   text-decoration: none;
+}
+.sectionn1 div .yy{
+    color: rgba(137, 43, 226, 0.903);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fgh{
+    border: 1px solid rgba(128, 128, 128, 0.536);
+    border-radius: 5px;
+    width: 1200px;
+    height: 100px;
+    position: relative;
+    left: 150px;
+    top: 50px;
+    display:flex;
+    align-items: center;
+}
+.fgh h4{
+    padding: 50px;
+    color: dimgray;
+}
+.fgh samp{
+    color: blueviolet;
+}
+.moom{
+    height: 1250px;
+    
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+.moom .mo1{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 550px;
+    height:1040px;
+    border: 1px solid rgba(128, 128, 128, 0.747);
+    
+    
+    
+}
+.mo1 form{
+    margin: 20px;
+    position: relative;
+    bottom: 50px;
+}
+.mo1 .hhj{
+    border:1px solid rgba(128, 128, 128, 0.801);
+    border-radius: 3px;
+    width: 200px;
+    height: 30px;
+}
+.mo1 .ki{
+    border:1px solid rgba(128, 128, 128, 0.801);
+    border-radius: 3px;
+    width: 200px;
+    height: 30px;
+    position: relative;
+    left: 240px;
+    bottom: 40px;
+}
+.mo1 .ki1{
+    position: relative;
+    left: 30px;
+    bottom: 38px;
+}
+.mo1 .ki2{
+    border:1px solid rgba(128, 128, 128, 0.801);
+    border-radius: 3px;
+    width: 200px;
+    height: 30px;
+    position: relative;
+    top: 10px;
+}
+.mo1 .b1{
+    border:1px solid rgba(128, 128, 128, 0.801);
+    border-radius: 3px;
+    width: 200px;
+    height: 30px;
+}
+.mo1 .b2{
+    border:1px solid rgba(128, 128, 128, 0.801);
+    border-radius: 3px;
+    width: 200px;
+    height: 30px;
+}
+.mo1 .vvt{
+   border:1px solid rgba(128, 128, 128, 0.801);
+    border-radius: 5px;
+    width: 500px;
+
+}
+.moom .h11{
+    position: relative;
+    bottom: 1100px;
+    left:  800px;
+}
+.moom1{
+    border: 1px solid rgba(128, 128, 128, 0.799);
+    display: flex;
+    position: relative;
+    bottom: 1108px;
+    border-radius: 5px;
+    left:  800px;
+    width: 500px;
+    height: 150px;
+}
+.moom1 .oiio1{
+    border-radius: 3px;
+    border:1px solid rgba(128, 128, 128, 0.897);
+    background-color: white;
+    position: relative;
+    top: 80px;
+    right: 100px;
+    width: 450px;
+    height: 40px;
+}
+.moom1 .oiio{
+    background-color: blueviolet;
+    border: white;
+    border-radius: 3px;
+    font-size: 10px;
+    position: relative;
+    top: 82px;
+    right:148px;
+    width: 50px;
+    height: 35px;
+}
+.moom1 p{
+
+    position: relative;
+    left: 80px;
+    font-size: 18px;
+}
+.moom2{
+    display: flex;
+    border: 1px solid rgba(128, 128, 128, 0.725);
+    width: 500px;
+    height: 815px;
+    position: relative;
+    bottom: 1100px;
+    left: 800px;
+    
+}
+
+.moom2 .lasst1{
+    color: rgb(31, 31, 31);
+    font-size: 20px;
+    position: relative;
+    left: 250px;
+   
+}
+.moom2 .lasst{
+    color: rgb(31, 31, 31);
+    font-size: 20px;
+    position: relative;
+    left: 40px;
+}
+.moom .h12{
+    position: relative;
+    bottom: 1100px;
+    left:  800px;
+}
+.moom2 .ccv1{
+    position: relative;
+    top: 400px;
+    right: 100px;
+}
+.ccv1 button{
+    color: gray;
+    border:1px solid rgba(128, 128, 128, 0.588);
+    border-radius: 3px;
+    background-color: white;
+    width: 450px;
+    height: 40px;
+}
+.moom2  .but{
+    color: white;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section6{
+    display: flex;
+    justify-content: space-around;
+    color: dimgray;
+}
+.section6 h1{
+    color: rgba(0, 0, 0, 0.81);
+}
+.section6 a{
+    text-decoration: none;
+    color: dimgray;
+}
+.ti{
+    position: relative;
+    top: 50px;
+}
+.ti1{
+    position: relative;
+    top: 105px;
+}
+.ti2{
+    position: relative;
+    top: 105px;
+}
+.ti3{
+    position: relative;
+    top: 50px;
+}
+.ti3 .bnf{
+    color: blueviolet;
+   
+}
+.ti4{
+    position: relative;
+    top: 50px;
+}
+.ti4 label{
+    font-size:20px ;
+}
+.ti4 .bor{
+    border: 2px solid rgb(142, 142, 142);
+    border-radius: 5px;
+    font-size: 20px;
+    width: 250px;
+    height: 40px;
+}
+.ti4 .bor1{
+    border: 1px solid white;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+    position: relative;
+    bottom:43px;
+    left: 177px;
+    width: 77px;
+    height: 40px;
+
+}
+.ti5{
+    color: blueviolet;
+    position: relative;
+    top: 110px;
+    left: 55px;
+}
+.ti5 .fa-sharp{
+    position: relative;
+    bottom: 10px;
+}
+.section7{
+    position: relative;
+    top: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    color: dimgray;
+}
+.section7 a{
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 18px;
+    
+}

@@ -1,0 +1,407 @@
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    height: 120px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.434);
+
+}
+.mo{
+    position: relative;
+    right: 120px;
+    top: 40px;
+}
+.mo input{
+    border: 0px;
+    background-color: white;
+    font-size: 15px;
+    width: 50px;  
+}
+.mo input:hover{
+    transform: translate(-15px ,0px );
+    transition: all 0.8s ease;
+}
+.mo i{
+    position:relative;
+    right: 20px;
+    color: dimgray;
+}
+.bo{
+    
+    position: relative;
+    top: 40px;
+}
+.bo button{ 
+    border: 3px solid  rgb(81, 81, 81);
+    color: rgb(81, 81, 81);
+    background-color: white;
+    font-size: 25px;
+    width: 160px;
+    height: 35px;
+}
+.no{
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+.no i{
+    font-size: 18px;
+    color: dimgray;
+    padding: 0px 5px;
+}
+.no i:hover{
+    color: rgb(51, 51, 51);
+    transition: all 0.8s ease;
+}
+.section1{
+    height:1100px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.401);
+    
+}
+.vr{
+    position: relative;
+    top: 18px;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    
+}
+.hh{
+    color: blueviolet;
+}
+.vr a{
+    text-decoration: none;
+    padding: 0px 0px 0px 30px;
+}
+.vr a:hover{
+    color: blueviolet;
+}
+.v3{
+    position: relative;
+    bottom: 580px;
+    left: 900px;
+}
+.v3 h1{
+    font-size: 45px;
+}.v3 p{
+    font-size:20px;
+}
+.v3 button{
+    color: rgba(255, 255, 255, 0.878);
+    border-radius: 4px;
+    box-shadow: ;
+    background-color: blueviolet;
+    width: 110px;
+    height: 38px; 
+}
+.v3 button:hover{
+    box-shadow: 5px 5px 15px dimgray;
+    transition: all 0.5s ease;
+    transform: scale(1.1);
+}
+.gg{
+    display: flex;
+    justify-content: space-around;
+    height: 10px
+}
+.c1{
+    position: relative;
+    bottom:  300px;
+}
+.c2{
+    position: relative;
+    bottom:  300px;
+}
+.c3{
+    position: relative;
+    bottom:  300px;
+}
+.gg i{
+    color: blueviolet;
+    position: relative;
+    right: 70px;
+    top: 60px;
+    font-size: 40px;
+}
+.gg h1{
+    color: rgb(79, 79, 79);
+}
+.gg p{
+    color: rgba(105, 105, 105, 0.799);
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+    
+}
+.class{  
+    width: 350px;
+    height: 400px;
+    overflow: hidden;
+    padding:  0px 0px 0px 20px ;
+}
+.image{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-image: url(3.jpg);
+    transition: 0.7s;
+}
+.image:hover{
+    transform: scale(1.08);
+}
+.class1{
+    width: 350px;
+    height: 400px;
+    overflow: hidden;
+}
+.image2{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-image: url(15.jpg);
+    transition: 0.7s;
+}
+.image2:hover{
+    transform: scale(1.08);
+}
+.class2{  
+    width: 350px;
+    height: 400px;
+    overflow: hidden;
+    padding:  0px 20px 0px 0px ;
+}
+.image3{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-image: url(9.jpg);
+    transition: 0.7s;
+}
+.image3:hover{
+    transform: scale(1.08);
+}
+ .class .p1{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    padding: 0px 0px 0px 0px;
+}
+.class1 .p1{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    padding: 0px 0px 0px 0px;
+}
+.class2 .p1{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    padding: 0px 0px 0px 0px;
+}
+.section2 p{
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 140px;
+    left: 20px;
+    font-size: 16px;
+}
+.section3{
+    background-color: rgba(212, 212, 212, 0.275);
+    height: 750px;
+}
+.section3 h1{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.867);
+}
+.section3 .qq{
+    
+    position: relative;
+    left: 725px;
+    color:  rgba(212, 212, 212, 0.275);
+    border-bottom: 2px solid rgba(123, 42, 204, 0.725);
+}
+.like{  
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+}
+.div1{
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 330px;
+    border-radius: 5px;
+}
+.div1 h1{
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 23px;
+}
+.div1 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.section4{
+    height: 800px;
+    
+}
+.section5{
+    height: 140px;
+}
+.section5 h1{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.867);
+}
+.section5 .qqq{
+    position: relative;
+    left: 725px;
+    color: white ;
+    border-bottom: 2px solid rgba(123, 42, 204, 0.725);
+}
+.section4 {
+    display: flex;
+    justify-content: space-around;
+    height: 600px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.401); 
+}
+.diiv1{
+    position: relative;
+    top: 100px;
+}
+.diiv1 samp{
+    color: rgba(137, 43, 226, 0.812);
+}
+.diiv1 h1{
+    color: rgba(113, 32, 189, 0.864);
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+}
+.diiv1 h4{
+    color: dimgray;
+    font-size: 12px;
+    position: relative;
+    bottom:  20px;
+    left: 150px;
+}
+.diiv1 h3{
+    color: dimgray;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+
+}
+.diiv1 button{
+    color: rgba(255, 255, 255, 0.878);
+    border-radius: 4px;
+    box-shadow: ;
+    background-color: blueviolet;
+    width: 110px;
+    height: 38px;
+    position: relative; 
+    left: 170px;
+
+}
+.diiv1 button:hover{
+    box-shadow: 5px 5px 15px dimgray;
+    transition: all 0.5s ease;
+    transform: scale(1.1);
+}
+.section6{
+    display: flex;
+    justify-content: space-around;
+    color: dimgray;
+}
+.section6 h1{
+    color: rgba(0, 0, 0, 0.81);
+}
+.section6 a{
+    text-decoration: none;
+    color: dimgray;
+}
+.ti{
+    position: relative;
+    top: 50px;
+}
+.ti1{
+    position: relative;
+    top: 105px;
+}
+.ti2{
+    position: relative;
+    top: 105px;
+}
+.ti3{
+    position: relative;
+    top: 50px;
+}
+.ti3 .bnf{
+    color: blueviolet;
+   
+}
+.ti4{
+    position: relative;
+    top: 50px;
+}
+.ti4 label{
+    font-size:20px ;
+}
+.ti4 .bor{
+    border: 2px solid rgb(142, 142, 142);
+    border-radius: 5px;
+    font-size: 20px;
+    width: 250px;
+    height: 40px;
+}
+.ti4 .bor1{
+    border: 1px solid white;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+    position: relative;
+    bottom:43px;
+    left: 177px;
+    width: 77px;
+    height: 40px;
+
+}
+.ti5{
+    color: blueviolet;
+    position: relative;
+    top: 110px;
+    left: 55px;
+}
+.ti5 .fa-sharp{
+    position: relative;
+    bottom: 10px;
+}
+.section7{
+    position: relative;
+    top: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    color: dimgray;
+}
+.section7 a{
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 18px;
+    
+}
+
+
+ 
+
+
+
+
+

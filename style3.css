@@ -1,0 +1,702 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    height: 120px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.434);
+
+}
+.mo{
+    position: relative;
+    right: 120px;
+    top: 40px;
+}
+.mo input{
+    border: 0px;
+    background-color: white;
+    font-size: 15px;
+    width: 50px;  
+}
+.mo input:hover{
+    transform: translate(-15px ,0px );
+    transition: all 0.8s ease;
+}
+.mo i{
+    position:relative;
+    right: 20px;
+    color: dimgray;
+}
+.bo{
+    
+    position: relative;
+    top: 40px;
+}
+.bo button{ 
+    border: 3px solid  rgb(81, 81, 81);
+    color: rgb(81, 81, 81);
+    background-color: white;
+    font-size: 25px;
+    width: 160px;
+    height: 35px;
+}
+.no{
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+.no i{
+    font-size: 18px;
+    color: dimgray;
+    padding: 0px 5px;
+}
+.no i:hover{
+    color: rgb(51, 51, 51);
+    transition: all 0.8s ease;
+}
+.section1{
+    height:100px;
+}
+.vr{
+    position: relative;
+    top: 18px;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    
+}
+.hh{
+    color: blueviolet;
+}
+.vr a{
+    color: rgba(74, 74, 74, 0.886);
+    text-decoration: none;
+    padding: 0px 0px 0px 30px;
+}
+.vr a:hover{
+    color: blueviolet;
+}
+.sectionn1{
+    display: flex;
+    background-color: rgba(154, 154, 154, 0.142);
+    height: 60px;
+      
+}
+.sectionn1 div {
+    
+    position: relative;
+    left: 50px;
+    top: 10px;
+    margin: 10px;
+}
+.sectionn1 div a {
+   color: rgba(0, 0, 0, 0.826); 
+   text-decoration: none;
+}
+.sectionn1 div .yy{
+    color: rgba(137, 43, 226, 0.903);
+}
+.section0{
+    height: 1950px;
+}
+.sectionb{
+    font-size: 25px;
+    display: flex; 
+    justify-content: center;
+}
+.sectionb a{
+    position: relative;
+    left: 45px;
+    color: white;
+    border-bottom: 2px solid rgb(185, 63, 197);
+}
+
+.shopall{
+    position: relative;
+    top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.all{
+    font-size: 25px;
+    position: relative;
+    left: 400px;
+}
+.shop select{
+    position: relative;
+    right: 160px;
+    border: white;
+    border-radius: 3px;
+    font-size: 15px;
+    height: 40px;  
+    background-color: rgba(105, 105, 105, 0.532);
+    
+}
+.shop select:hover{
+    transition: all 0.5s ease;
+    transform: scale(1.08);
+    background-color: rgb(74, 74, 74);  
+}
+.shop .k{
+    background-color:white;
+    height: 200px;
+    width: 200px;
+}
+.qw{
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+    border-radius: 3px;
+    border: 1px solid rgba(162, 162, 162, 0.407);
+    width: 260px;
+    height: 185px;
+    display: flex;
+    margin: 20px;
+}
+.border1{
+    position: relative;
+    left: 10px;
+}
+.border1 dl h4{
+    color: rgba(137, 43, 226, 0.899);
+}
+.qw h1{
+    color: rgba(0, 0, 0, 0.841);
+}
+.border2 h4{
+    color: rgb(62, 62, 62);
+}
+.border2{
+    margin: 50px;
+}
+
+.like{  
+    position: relative;
+    bottom: 200px;
+    left: 120px;
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+}
+.div121{
+    position: relative;
+    left: 80px;
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 250px;
+    border-radius: 5px;
+}
+.div121 h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 20px;
+}
+.div121 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.div123{
+    
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 230px;
+    border-radius: 5px;
+}
+.div123 h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 20px;
+}
+.div123 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.div122{
+    position: relative;
+    right: 80px;
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 230px;
+    border-radius: 5px;
+}
+.div122 h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 20px;
+}
+.div122 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.follw{
+    border-radius: 3px;
+    position: relative;
+    bottom: 500px;
+    left: 125px;
+    border:1px solid rgba(183, 183, 183, 0.89);
+    width: 250px;
+}
+.follw h1{
+    font-size: 18px;
+    position: relative;
+    left: 25px;
+}
+.follw p{
+    position: relative;
+    left: 20px;
+   
+   
+    
+}
+.follw input{
+    
+    position: relative;
+    left: 20px;
+}
+.follw label{
+    position: relative;
+    left: 20px;
+}
+.follw .idi .l1{
+    color: red;
+}
+.follw .idi .l2{
+    color: green;
+}
+.follw .idi .l3{
+    color: blue;
+}
+.follw .idi .l4{
+    color: purple;
+}
+.like1{  
+    position: relative;
+    bottom: 200px;
+    left: 120px;
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+}
+.div221{
+    position: relative;
+    bottom: 600px;
+    left: 80px;
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 250px;
+    border-radius: 5px;
+}
+.div221 h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 20px;
+}
+.div221 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.div223{
+    position: relative;
+    bottom: 600px;
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 230px;
+    border-radius: 5px;
+}
+.div223 h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 20px;
+}
+.div223 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.div222{
+    position: relative;
+    bottom: 600px;
+    right: 80px;
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 230px;
+    border-radius: 5px;
+}
+.div222 h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 20px;
+}
+.div222 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.like2{  
+    position: relative;
+    bottom: 200px;
+    left: 120px;
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+}
+.div321{
+    position: relative;
+    bottom: 600px;
+    left: 80px;
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 250px;
+    border-radius: 5px;
+}
+.div321 h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 20px;
+}
+.div321 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.div323{
+    position: relative;
+    bottom: 600px;
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 230px;
+    border-radius: 5px;
+}
+.div323 h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 20px;
+}
+.div323 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.div322{
+    position: relative;
+    bottom: 600px;
+    right: 80px;
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 230px;
+    border-radius: 5px;
+}
+.div322 h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 20px;
+}
+.div322 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.like3{  
+    position: relative;
+    bottom: 200px;
+    left: 120px;
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+}
+.div421{
+    position: relative;
+    bottom: 600px;
+    left: 80px;
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 250px;
+    border-radius: 5px;
+}
+.div421 h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 20px;
+}
+.div421 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.div423{
+    position: relative;
+    bottom: 600px;
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 230px;
+    border-radius: 5px;
+}
+.div423 h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 20px;
+}
+.div423 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+.div422{
+    position: relative;
+    bottom: 600px;
+    right: 80px;
+    border: 1px solid rgba(212, 212, 212, 0.566);
+    background-color: white;
+    box-shadow: 2px 2px 2px 4px  rgba(245, 245, 245, 0.385) ,-3px -3px rgba(245, 245, 245, 0.27);
+    width: 230px;
+    border-radius: 5px;
+}
+.div422 h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(93, 21, 159, 0.84);
+    font-size: 20px;
+}
+.div422 h6{
+    color: dimgray;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section2{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+    
+}
+.class{  
+    width: 350px;
+    height: 400px;
+    overflow: hidden;
+    padding:  0px 0px 0px 20px ;
+}
+.image{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-image: url(3.jpg);
+    transition: 0.7s;
+}
+.image:hover{
+    transform: scale(1.08);
+}
+.class1{
+    width: 350px;
+    height: 400px;
+    overflow: hidden;
+}
+.image2{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-image: url(15.jpg);
+    transition: 0.7s;
+}
+.image2:hover{
+    transform: scale(1.08);
+}
+.class2{  
+    width: 350px;
+    height: 400px;
+    overflow: hidden;
+    padding:  0px 20px 0px 0px ;
+}
+.image3{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-image: url(9.jpg);
+    transition: 0.7s;
+}
+.image3:hover{
+    transform: scale(1.08);
+}
+ .class .p1{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    padding: 0px 0px 0px 0px;
+}
+.class1 .p1{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    padding: 0px 0px 0px 0px;
+}
+.class2 .p1{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    padding: 0px 0px 0px 0px;
+}
+.section2 p{
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 140px;
+    left: 20px;
+    font-size: 16px;
+}
+
+.section6{
+    display: flex;
+    justify-content: space-around;
+    color: dimgray;
+}
+.section6 h1{
+    color: rgba(0, 0, 0, 0.81);
+}
+.section6 a{
+    text-decoration: none;
+    color: dimgray;
+}
+.ti{
+    position: relative;
+    top: 50px;
+}
+.ti1{
+    position: relative;
+    top: 105px;
+}
+.ti2{
+    position: relative;
+    top: 105px;
+}
+.ti3{
+    position: relative;
+    top: 50px;
+}
+.ti3 .bnf{
+    color: blueviolet;
+   
+}
+.ti4{
+    position: relative;
+    top: 50px;
+}
+.ti4 label{
+    font-size:20px ;
+}
+.ti4 .bor{
+    border: 2px solid rgb(142, 142, 142);
+    border-radius: 5px;
+    font-size: 20px;
+    width: 250px;
+    height: 40px;
+}
+.ti4 .bor1{
+    border: 1px solid white;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+    position: relative;
+    bottom:43px;
+    left: 177px;
+    width: 77px;
+    height: 40px;
+
+}
+.ti5{
+    color: blueviolet;
+    position: relative;
+    top: 110px;
+    left: 55px;
+}
+.ti5 .fa-sharp{
+    position: relative;
+    bottom: 10px;
+}
+.section7{
+    position: relative;
+    top: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    color: dimgray;
+}
+.section7 a{
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 18px;
+    
+}

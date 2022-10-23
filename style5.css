@@ -1,0 +1,449 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    height: 120px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.434);
+
+}
+.mo{
+    position: relative;
+    right: 120px;
+    top: 40px;
+}
+.mo input{
+    border: 0px;
+    background-color: white;
+    font-size: 15px;
+    width: 50px;  
+}
+.mo input:hover{
+    transform: translate(-15px ,0px );
+    transition: all 0.8s ease;
+}
+.mo i{
+    position:relative;
+    right: 20px;
+    color: dimgray;
+}
+.bo{
+    
+    position: relative;
+    top: 40px;
+}
+.bo button{ 
+    border: 3px solid  rgb(81, 81, 81);
+    color: rgb(81, 81, 81);
+    background-color: white;
+    font-size: 25px;
+    width: 160px;
+    height: 35px;
+}
+.no{
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+.no i{
+    font-size: 18px;
+    color: dimgray;
+    padding: 0px 5px;
+}
+.no i:hover{
+    color: rgb(51, 51, 51);
+    transition: all 0.8s ease;
+}
+.section1{
+    height:100px;
+}
+.vr{
+    position: relative;
+    top: 18px;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    
+}
+.hh{
+    color: blueviolet;
+}
+.vr a{
+    color: rgba(74, 74, 74, 0.886);
+    text-decoration: none;
+    padding: 0px 0px 0px 30px;
+}
+.vr a:hover{
+    color: blueviolet;
+}
+.sectionn1{
+    display: flex;
+    background-color: rgba(154, 154, 154, 0.142);
+    height: 60px;
+      
+}
+.sectionn1 div {
+    
+    position: relative;
+    left: 50px;
+    top: 10px;
+    margin: 10px;
+}
+.sectionn1 div a {
+   color: rgba(0, 0, 0, 0.826); 
+   text-decoration: none;
+}
+.sectionn1 div .yy{
+    color: rgba(137, 43, 226, 0.903);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dyd{
+    display: flex;
+    
+}
+.dydy{
+    display: flex;
+    
+}
+.dydy1{
+    display: flex;
+    
+}
+.dyd h1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 220px;
+    height: 80px;
+    border-bottom: 1px solid rgba(119, 119, 119, 0.456); 
+    border-left: 1px solid  rgba(119, 119, 119, 0.456);
+    border-right: 1px solid  rgba(119, 119, 119, 0.456);
+    border-top: 1px solid  rgba(119, 119, 119, 0.456);
+    position: relative;
+    left: 50px;
+
+}
+.dydy h1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 220px;
+    height: 150px;
+    border-bottom: 1px solid rgba(119, 119, 119, 0.456); 
+    border-left: 1px solid  rgba(119, 119, 119, 0.456);
+    border-right: 1px solid  rgba(119, 119, 119, 0.456);
+    border-top: 1px solid  rgba(119, 119, 119, 0.456);
+    position: relative;
+    bottom: 38px;
+    left: 50px;
+
+}
+.dydy1 h1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 220px;
+    height: 150px;
+    border-bottom: 1px solid rgba(119, 119, 119, 0.456); 
+    border-left: 1px solid  rgba(119, 119, 119, 0.456);
+    border-right: 1px solid  rgba(119, 119, 119, 0.456);
+    border-top: 1px solid  rgba(119, 119, 119, 0.456);
+    position: relative;
+    bottom: 72px;
+    left: 50px;
+
+}
+.dydy1 .oo{
+    border-radius: 3px;
+    width: 35px;
+    height: 40px;
+    background-color: white;
+    color: purple;
+    border: 2px solid purple;
+}
+.dydy1 .oio{
+    border-radius: 3px;
+    color: black;
+    font-size: 15px;
+    background-color: white;
+    border: 2px solid gray;
+    margin: -4px;
+    width: 70px;
+    height: 36px;
+}
+.dydy .oo{
+    border-radius: 3px;
+    width: 35px;
+    height: 40px;
+    background-color: white;
+    color: purple;
+    border: 2px solid purple;
+}
+.dydy .oio{
+    border-radius: 3px;
+    color: black;
+    font-size: 15px;
+    background-color: white;
+    border: 2px solid gray;
+    margin: -4px;
+    width: 70px;
+    height: 36px;
+}
+.f2 .oo{
+    border-radius: 3px;
+    width: 35px;
+    height: 40px;
+    background-color: white;
+    color: purple;
+    border: 2px solid purple;
+}
+.dydy1 .oo1{
+    position: relative;
+    left: 60px;
+    border-radius: 3px;
+    width: 35px;
+    height: 40px;
+    background-color: white;
+    color: purple;
+    border: 2px solid purple;
+}
+.dydy1 h1 form input  {
+    
+    border-radius: 2px;
+    position: relative;
+    right: 35px;
+    bottom: 0px;
+    width: 52px;
+    height: 34px;
+    text-align: center;
+
+}
+.dydy h1 form input  {
+    
+    border-radius: 2px;
+    position: relative;
+    right: 35px;
+    bottom: 0px;
+    width: 52px;
+    height: 34px;
+    text-align: center;
+
+}
+.dydy .oo1{
+    position: relative;
+    left: 60px;
+    border-radius: 3px;
+    width: 35px;
+    height: 40px;
+    background-color: white;
+    color: purple;
+    border: 2px solid purple;
+}
+.dydy1 h1 button{
+    background-color: rgba(104, 25, 161, 0.834);
+    border-radius: 3px;
+    width: 50px;
+    height: 40px;
+    border: white;
+}
+.dydy h1 button{
+    background-color: rgba(104, 25, 161, 0.834);
+    border-radius: 3px;
+    width: 50px;
+    height: 40px;
+    border: white;
+}
+.dydy  p{
+    font-size: 20px;
+    color: rgb(81, 81, 81);
+}
+.dydy1  p{
+    font-size: 20px;
+    color: rgb(69, 69, 69);
+}
+.dydy h1{
+    font-size: 20px;
+    color: rgb(57, 57, 57);
+}
+.dydy1 h1{
+    font-size: 20px;
+    color: rgb(57, 57, 57);
+}
+.dyd h1{
+    color: rgba(18, 18, 18, 0.911);
+}
+.rt{
+    display: flex;
+    justify-content: space-around;
+}
+.rt1 .t1{
+    border: white;
+    width:250px;
+    height: 40px;
+    font-size: 15px;
+    color: white;
+    border-radius: 3px;
+    background-color: blueviolet;
+}
+.rt1 .t2{
+    border:2px solid rgba(64, 64, 64, 0.626);
+    width:250px;
+    height: 40px;
+    font-size: 15px;
+    color: purple;
+    border-radius: 3px;
+    background-color:white;
+}
+.rt1 p{
+    color: dimgray;
+}
+.rt1 .mm{
+    border:2px solid rgba(64, 64, 64, 0.626);
+    width:350px;
+    height: 40px;
+    font-size: 15px;
+    color: rgba(64, 64, 64, 0.91);
+    border-radius: 3px;
+    background-color:white;
+}
+.rt1 .mm1{
+    border: white;
+    width:150px;
+    height: 40px;
+    font-size: 12px;
+    color: white;
+    border-radius: 3px;
+    background-color: blueviolet;
+}
+.rt2 p samp{
+    color: white;
+}
+.rt2 h1{
+   position:relative ;
+   left: 160px;
+}
+.rt2 button{
+    position: relative;
+    left: 50px;
+    border: white;
+    width:280px;
+    height: 50px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.849);
+    border-radius: 3px;
+    background-color: blueviolet;
+}
+
+
+
+
+.section6{
+    display: flex;
+    justify-content: space-around;
+    color: dimgray;
+}
+.section6 h1{
+    color: rgba(0, 0, 0, 0.81);
+}
+.section6 a{
+    text-decoration: none;
+    color: dimgray;
+}
+.ti{
+    position: relative;
+    top: 50px;
+}
+.ti1{
+    position: relative;
+    top: 105px;
+}
+.ti2{
+    position: relative;
+    top: 105px;
+}
+.ti3{
+    position: relative;
+    top: 50px;
+}
+.ti3 .bnf{
+    color: blueviolet;
+   
+}
+.ti4{
+    position: relative;
+    top: 50px;
+}
+.ti4 label{
+    font-size:20px ;
+}
+.ti4 .bor{
+    border: 2px solid rgb(142, 142, 142);
+    border-radius: 5px;
+    font-size: 20px;
+    width: 250px;
+    height: 40px;
+}
+.ti4 .bor1{
+    border: 1px solid white;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+    position: relative;
+    bottom:43px;
+    left: 177px;
+    width: 77px;
+    height: 40px;
+
+}
+.ti5{
+    color: blueviolet;
+    position: relative;
+    top: 110px;
+    left: 55px;
+}
+.ti5 .fa-sharp{
+    position: relative;
+    bottom: 10px;
+}
+.section7{
+    position: relative;
+    top: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    color: dimgray;
+}
+.section7 a{
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 18px;
+    
+}
